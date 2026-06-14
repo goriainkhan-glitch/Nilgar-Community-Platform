@@ -1,0 +1,6 @@
+{
+  "name": "Nilgar Community",
+  "description": "Streamlined onboarding experience prioritizing DPDP Act 2023 compliance, multilingual consent management, and client-side secure ID masking & validation for the Nilgar Community Welfare Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
